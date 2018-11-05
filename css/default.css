@@ -53,7 +53,7 @@ footer{
     float:left;/* 左側に置く */
   }
   #side{
-    width: calc(1024px-718px);/* #mainの幅を引いて幅を決定 */
+    width: calc(1024px - 718px);/* #mainの幅を引いて幅を決定 */
     float:left;/* #mainの右に回り込む */
   }
   aside{
