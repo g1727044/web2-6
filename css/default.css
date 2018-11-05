@@ -49,15 +49,15 @@ footer{
     margin: auto;/* 中央揃え */
   }
   section{
-    width: calc(70% - 20px);/* #mainの幅を引いて幅をする */
+    width: calc(70%-20px);/* #mainの幅を引いて幅をする */
     float:left;/* 左側に置く */
   }
   #side{
-    width: calc(1024px - 718px);/* #mainの幅を引いて幅を決定 */
+    width: calc(1024px-718px);/* #mainの幅を引いて幅を決定 */
     float:left;/* #mainの右に回り込む */
   }
   aside{
-    width: calc(100% - 20px);/* paddingを考慮して幅を決める */
+    width: calc(100%-20px);/* paddingを考慮して幅を決める */
   }
   #main:after{
     /* footerを下に回り込ませる */
